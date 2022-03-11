@@ -1,0 +1,6 @@
+
+
+[11-Mar-2022 01:54:31]
+ Stack Trace : 	System.NullReferenceException: Object reference not set to an instance of an object.
+   at ArchimydesWeb.Helpers.General.BuildErrorMsg(Exception EX) in C:\Users\Charles.obika\source\repos\ArchimydesWeb\Helpers\General.cs:line 89
+   at ArchimydesWeb.Helpers.General.LogToFile(Exception EX) in C:\Users\Charles.obika\source\repos\ArchimydesWeb\Helpers\General.cs:line 117
